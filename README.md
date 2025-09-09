@@ -25,6 +25,7 @@ Your goal is to minimize the validation loss as low as possible within 7 epochs.
 The rules are simple:
 
 - You cannot change the number of epochs, the random seed, the dataset, or the validation fraction.
+- You cannot use pre-trained weights or augment the training data.
 - You cannot change the `evaluate()` function.
 - Everything else is fair game! You can change the model architecture, initialization, tokenization, hyperparameters, optimizer, scheduler, training loop, etc.
 

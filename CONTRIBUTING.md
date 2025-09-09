@@ -6,7 +6,7 @@ We welcome contributions to Mainrun! Whether you've found a bug, have a feature 
 
 ### Reporting Issues
 
-Found a bug or have a suggestion? Please [open an issue](https://github.com/maincode/mainrun/issues) with:
+Found a bug or have a suggestion? Please [open an issue](https://github.com/maincodehq/mainrun/issues) with:
 
 - **Bug Reports**: Include steps to reproduce, expected vs actual behavior, and environment details
 - **Feature Requests**: Describe the enhancement and why it would be valuable

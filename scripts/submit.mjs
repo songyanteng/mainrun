@@ -25,7 +25,7 @@ try {
   console.log('- All submitted code becomes the property of Maincode Pty Ltd')
   console.log('- You assign all intellectual property rights to Maincode Pty Ltd')
   console.log('- You have read and agree to the full legal terms')
-  console.log('\nFull terms: https://github.com/maincode/mainrun/blob/main/LEGAL-NOTICE.md')
+  console.log('\nFull terms: https://github.com/maincodehq/mainrun/blob/main/LEGAL-NOTICE.md')
   console.log('='.repeat(60) + '\n')
   
   const confirmation = await question('Do you agree to these terms and want to proceed? (yes/no): ')
